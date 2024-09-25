@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [AI Synapse](https://www.ai-synapse.io/), a CRM app, leveraging LLMs for lead enrichment and customer outreach<br><br>- 🌱 I’m currently learning **Machine Learning, and Deep Learning.**<br><br>- 👯 I’m looking to collaborate on **Generative AI, web development, and automation projects.**<br><br>- 💬 Ask me about **Full Stack development, Generative AI, and scalable solutions.**<br><br>- 📫 How to reach me **hamzajarral62@gmail.com**<br><br>- ⚡ Fun fact **I can turn complex web apps into scalable products in no time!**
+- 🔭 I’m currently working on [AI Synapse](https://www.ai-synapse.io/), a CRM app, leveraging LLMs for lead enrichment and customer outreach.<br><br>- 🌱 I’m currently learning **Machine Learning, and Deep Learning.**<br><br>- 👯 I’m looking to collaborate on **Generative AI, web development, and automation projects.**<br><br>- 💬 Ask me about **Full Stack development, Generative AI, and scalable solutions.**<br><br>- 📫 Reach me at **hamzajarral62@gmail.com**<br><br>- ⚡ Fun fact **I can turn complex web apps into scalable products in no time!**
 
 
 ## 🌐 Socials:
